@@ -1,7 +1,7 @@
  # implementation of the bubble sort algorithm
 
 arr = [ 10 , 22 , 38 , 27 , 11]  #unsorted array 
-temp=0
+temp=0  #temp will be used for swapping elements during the sorting process.
 
 
 # displaying the original array 
